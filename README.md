@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![Screen-11-1-2021_54140_PM](https://user-images.githubusercontent.com/46951897/139752247-4a367ab3-3e35-4bd9-88d2-ee0d29b6992b.png)
+![regression](https://user-images.githubusercontent.com/46951897/139799926-eb7f8d42-358b-49de-b0c0-55b21258ec47.png)
 
 Here we have a linear model that shows how Miles per Gallon is affected by the followng variables: Vehicle Length, Vehicle Weight, Spoiler Angle, Ground Clearance, and AWD. Judging by the results, vehicle length, weight, and ground clearance are the variables that provide the most non-random variance calculations according to the probability metric (Pr(>|t|)).
 
