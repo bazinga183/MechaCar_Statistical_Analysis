@@ -1,5 +1,8 @@
 # MechaCar_Statistical_Analysis
 
+## Purpose
+I have been encharged with looking at the production of prototype cars for MechaCars to see if there are certain prototypes that are hindering this process. I was given data two Comma Separated Value files, one on [Miles per Gallon](https://github.com/bazinga183/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv) and one on [Suspension Coils](https://github.com/bazinga183/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv). I use these files and run regressions and t-tests to determine if there are any discrepancies within the data or any aspects of production that should be improved upon.
+
 ## Linear Regression to Predict MPG
 
 ![regression](https://user-images.githubusercontent.com/46951897/139799926-eb7f8d42-358b-49de-b0c0-55b21258ec47.png)
